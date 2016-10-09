@@ -1,0 +1,22 @@
+{
+  "name": "react-mvc",
+  "version": "1.0.0",
+  "description": "Module & Controller to use in React projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakeThink/react-mvc.git"
+  },
+  "author": "Lukewh",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MakeThink/react-mvc/issues"
+  },
+  "homepage": "https://github.com/MakeThink/react-mvc#readme",
+  "dependencies": {
+    "npm-fetch": "0.0.9"
+  }
+}
